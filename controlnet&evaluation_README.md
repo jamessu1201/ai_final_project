@@ -1,11 +1,3 @@
-# Person C - Individual Work Documentation
-## 蘇靖淵 (314581046)
-
-**Project:** Comparative Study of Text-to-Image Generation Models  
-**Group 4** | National Yang Ming Chiao Tung University | December 2025
-
----
-
 ## 📋 Executive Summary
 
 As Person C in this group project, I was responsible for three core components:
