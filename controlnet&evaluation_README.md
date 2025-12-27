@@ -11,7 +11,6 @@ Additionally, I developed the shared prompt dataset and automation tools to supp
 
 ---
 
-## 🎯 My Responsibilities
 
 ### Core Deliverables
 
@@ -757,61 +756,3 @@ person_c_work/
     └── report_materials/
 ```
 
----
-
-## 🎯 Summary
-
-As Person C, I successfully delivered:
-
-✅ **ControlNet Implementation** - Complete experimental pipeline  
-✅ **Evaluation System** - CLIP Score-based quantitative framework  
-✅ **Visualization System** - Professional charts and comparisons  
-✅ **Shared Resources** - Prompts, tools, automation
-
-**Total Contribution:**
-- 8 Python scripts
-- ~1,550 lines of code
-- 25 ControlNet images generated
-- 250 images evaluated (all models)
-- 9 publication-quality visualizations
-- Complete automation pipeline
-
-**Key Impact:**
-- Enabled objective model comparison
-- Provided data-driven recommendations
-- Created presentation-ready materials
-- Supported entire team with shared tools
-
----
-
-## 📝 Declaration
-
-I hereby declare that all work described above was performed by me individually:
-- All Python code was written by me
-- Evaluation framework designed and implemented by me
-- Visualizations created by me
-- Results generated using my implementations
-- Documentation written by me
-
-**Student:** 蘇靖淵 (Person C)  
-**ID:** 314581046  
-**Date:** December 27, 2025
-
----
-
-**Total Effort Estimate:** 50-60 hours
-- ControlNet implementation: 15 hours
-- Evaluation system: 20 hours
-- Visualization: 10 hours
-- Utilities & automation: 8 hours
-- Testing & debugging: 7 hours
-
----
-
-## 🙏 Acknowledgments
-
-- **Group Members:** Person A (林昱睿), Person B (曾友亭) for collaboration
-- **Professor:** For guidance on evaluation methodology
-- **Hugging Face:** For model hosting and Diffusers library
-- **OpenAI:** For CLIP model
-- **Community:** For ControlNet, Stable Diffusion implementations
